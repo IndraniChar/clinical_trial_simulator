@@ -14,3 +14,5 @@ An interactive Shiny application that simulates clinical trials in-silico using 
 ## Run Locally
 ```r
 shiny::runApp("app.R")
+
+LIVE LINK : https://ls86l3-indranichar.shinyapps.io/clinical_trial_simulator/
