@@ -8,7 +8,7 @@ An interactive Shiny application that simulates clinical trials **in-silico** us
 
 ## 🌐 Live Demo
 
-### 👉 [**Click here to launch the Clinical Trial Simulator**](https://indranichar.shinyapps.io/clinical_trial_simulator/)
+### 👉 [**Click here to launch the Clinical Trial Simulator**](https://ls86l3-indranichar.shinyapps.io/clinical_trial_simulator/)
 
 > **No installation needed!** Runs directly in your browser.
 
